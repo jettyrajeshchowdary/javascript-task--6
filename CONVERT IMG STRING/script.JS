@@ -6,6 +6,9 @@ function convertImageToString() {
       .then(response => response.text())
       .then(data => {
         document.getElementById('imageString').innerText = data; // Display the converted string
-      });
+      });    
+
   }
+        
+  
   
