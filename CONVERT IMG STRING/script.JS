@@ -8,7 +8,7 @@ function convertImageToString() {
         document.getElementById('imageString').innerText = data; // Display the converted string
       });    
 
-  }
+  }  
         
-  
+
   
